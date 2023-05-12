@@ -1,7 +1,8 @@
 # AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets
 Current Version 3DMIGOTO: 6.0 - 7.0
+
 Special Thanks to: SilentNightSound
-PVT = Private
+ (PVT = Private)
 
 
 you got this error?
