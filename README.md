@@ -2,7 +2,7 @@
 Current Version 3DMIGOTO: 2023
 
 *Assets mods* 
------> ![OOOOHH MAY GAHHH VIRUS REALL😱](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods)
+-----> [OOOOHH MAY GAHHH VIRUS REALL😱](https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods)
 
 Special Thanks to: SilentNightSound#7430
  (PVT = Private)
@@ -20,3 +20,5 @@ this too!!??
 
 *it is your problem, not my problem* :)
 Contact me: MAnggiarMustofa#0359 if there's problem i will try fix it as i can :) *(no promise!)*
+
+### You may want to use [DownGit](https://minhaskamal.github.io/DownGit/#/home) to download individual files that you need instead of cloning the entire repository
