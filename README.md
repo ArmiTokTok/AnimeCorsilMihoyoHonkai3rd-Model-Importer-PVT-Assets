@@ -1,5 +1,6 @@
 # AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets
-Current Version 3DMIGOTO: 6.0 - 7.0
+Current Version 3DMIGOTO: 2023
+*Assets mods* -----> https://github.com/HaleAnggi/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets-Mods
 
 Special Thanks to: SilentNightSound#7430
  (PVT = Private)
