@@ -1,4 +1,4 @@
-# AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets
+## AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets
 Current Version 3DMIGOTO: 2023
 
 *Assets mods* 
@@ -7,7 +7,7 @@ Current Version 3DMIGOTO: 2023
 Special Thanks to: SilentNightSound#7430
  (PVT = Private)
 
-
+## ASSETS CHARACTER STUFF
 you got this error?
 ![image](https://user-images.githubusercontent.com/115152799/233425280-4cc03135-b2bf-4f77-9596-1d817b7d57df.png)
 
@@ -16,6 +16,9 @@ or.. maybe like this too?
 
 this too!!??
 ![image](https://user-images.githubusercontent.com/115152799/236383347-87f3804d-72da-4938-9895-b6114a7f5595.png)
+
+## FACE STUFF
+![Screenshot (69)](https://github.com/NoelGIJR/AnimeMihoyoHonkai3rd-Model-Importer-PVT-Assets/assets/115152799/623ac68e-fb75-4876-b4fa-ce22b5f24eb6)
 
 
 *it is your problem, not my problem* :)
